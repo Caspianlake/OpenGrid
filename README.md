@@ -10,5 +10,5 @@ An Open Source, 3D Printable modular desk/workshop organizing system.
 
 **Notes**
 
-Although untested, you are open to produce these with methods other than 3D Printing.
-
+- Although untested, you are open to produce these with methods other than 3D Printing.
+- The "Default" base is designed with 5.2mm diameter holes to account for printing tolerances, so the magnets fit.
